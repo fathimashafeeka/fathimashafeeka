@@ -23,7 +23,7 @@ I am a Generative AI and Machine Learning fresher with hands-on experience in bu
 
 ## Projects
 
-###  Document-Aware Chatbot using LLMs
+###  AI-Medical-Chatbot  using LLMs
 A chatbot that answers user questions from uploaded PDF documents using vector similarity search.
 
 **Technologies:** Python, LangChain, FAISS, HuggingFace Embeddings, Flask  
@@ -32,11 +32,11 @@ A chatbot that answers user questions from uploaded PDF documents using vector s
 - Vector-based retrieval  
 - Context-aware AI responses  
 
- Repository: [https://github.com/fathimashafeeka ]https://github.com/fathimashafeeka/AI-Medical-Chatbot
+ Repository: https://github.com/fathimashafeeka/AI-Medical-Chatbot
 
 
 
-###  Resume Reviewer using Generative AI
+###  Resume Reviewer App using Generative AI
 An AI-powered resume analysis tool that provides feedback on resume structure, skills, and ATS optimization.
 
 **Technologies:** Python, LLMs, Prompt Engineering  
@@ -45,11 +45,12 @@ An AI-powered resume analysis tool that provides feedback on resume structure, s
 - Skill gap identification  
 - AI-generated suggestions  
 
- Repository: https://github.com/fathimashafeeka  
+ Repository: https://github.com/fathimashafeeka/Resume-Reviewer-App/tree/main
 
 
 
-###  Cat vs Dog Image Classification
+
+### Dog_vs_Cat-image-identifier
 A CNN-based image classification model to distinguish between cats and dogs.
 
 **Technologies:** Python, TensorFlow, Keras, OpenCV  
@@ -58,7 +59,7 @@ A CNN-based image classification model to distinguish between cats and dogs.
 - CNN model training  
 - Model evaluation  
 
- Repository: https://github.com/fathimashafeeka  
+ Repository: https://github.com/fathimashafeeka/Dog_vs_Cat-image-identifier
 
 
 
