@@ -32,7 +32,7 @@ A chatbot that answers user questions from uploaded PDF documents using vector s
 - Vector-based retrieval  
 - Context-aware AI responses  
 
- Repository: https://github.com/fathimashafeeka  
+ Repository: [https://github.com/fathimashafeeka ]https://github.com/fathimashafeeka/AI-Medical-Chatbot
 
 
 
