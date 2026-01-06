@@ -62,6 +62,17 @@ A CNN-based image classification model to distinguish between cats and dogs.
  Repository: https://github.com/fathimashafeeka/Dog_vs_Cat-image-identifier
 
 
+### Credit Card Fraud Detection using Deep Neural Networks
+A Deep Neural Network model to identify fraudulent transactions with 98% accuracy using Keras and Scikit-learn.
+
+**Technologies:** Python, TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+**Features:**
+- Data preprocessing  
+- DNN model training  
+- Model evaluation  
+
+ Repository: https://github.com/fathimashafeeka/Credit-card-fraud-detection/blob/main/Credit%20Card%20Fraud.ipynb
+
 
 ###  Flask-based AI Chat Application
 A web-based chatbot application with secure API handling.
