@@ -3,9 +3,9 @@
 
  UAE  
  Email: fathiseppi97@gmail.com  
+ Portfolio: https://fathimashafeeka.github.io/Portfolio/
  LinkedIn: https://linkedin.com/in/shafeeka-k-c-079596305  
  GitHub: https://github.com/fathimashafeeka  
-
 
 ## About Me
 I am a Generative AI and Machine Learning fresher with hands-on experience in building real-world AI applications using Python. My interests include LLM-based systems, NLP, computer vision, and deploying ML models using Flask. I am actively seeking AI/ML intern or junior roles in the UAE.
